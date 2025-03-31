@@ -1,4 +1,4 @@
-import javax.swing.*;
+import javax.swing.*;//using java swing for anaimation.
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.JPanel;
